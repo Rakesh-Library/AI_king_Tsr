@@ -7,7 +7,7 @@ const App: React.FC = () => {
       <div className="text-center">
         <h1 className="text-6xl sm:text-8xl md:text-9xl font-extrabold tracking-tighter">
           <span className="bg-gradient-to-r from-green-500 via-white to-orange-500 text-transparent bg-clip-text">
-            My Ireland
+            Inidia and Ireland
           </span>
         </h1>
         <p className="mt-4 text-lg sm:text-xl text-gray-400">
